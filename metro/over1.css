@@ -1,0 +1,40 @@
+nav{
+    text-align: center;
+    background-color: rgb(135, 246, 215);
+}
+.head{ 
+    background-color: rgba(139, 139, 255, 0.599);
+text-align: center;
+}
+.kakaha{
+    margin-bottom: 100px;
+}
+
+img{
+    width: 100%;
+}
+.kahahaha{
+    padding-bottom: 100px;
+}
+.row{
+    align-items: center;
+    
+}
+footer{
+    padding-bottom: 320px;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    background-image: url(depositphotos_185941404-stock-photo-view-sub-basement-stairs.jpg);
+    
+}
+
+.ju{
+    font-family: "Victor Mono", monospace;
+}
+.juj{
+    font-family: "Rubik 80s Fade", system-ui;
+}
+.gig{
+    font-family: "Montserrat", sans-serif;
+
+}
